@@ -1,0 +1,7 @@
+/openai-venv
+*.txt
+*.docx
+*.pdf
+.DS_Store
+coverletter-yufanfei.py
+resume.py
